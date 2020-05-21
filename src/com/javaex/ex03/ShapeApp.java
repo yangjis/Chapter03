@@ -30,8 +30,6 @@ public class ShapeApp {
 		tArray[1] = t2;
 		tArray[2] = t3;
 		
-		Shape sc = new Circle("무지개", "오색찬란", 52);
-		
 		for(int i = 0; i < cArray.length; i++) {
 			cArray[i].draw();
 		}
